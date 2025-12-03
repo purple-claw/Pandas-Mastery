@@ -1,0 +1,8 @@
+display.max_rows: 50
+display.max_columns: 20
+display.float_format: <built-in method format of str object at 0x7f7e64521cb0>
+mode.chained_assignment: warn
+compute.use_bottleneck: True
+compute.use_numexpr: True
+display.precision: 6
+io.hdf.default_format: table
