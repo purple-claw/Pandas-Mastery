@@ -1,6 +1,6 @@
 display.max_rows: 50
 display.max_columns: 20
-display.float_format: <built-in method format of str object at 0x7f7e64521cb0>
+display.float_format: <built-in method format of str object at 0x7ff1a5a84770>
 mode.chained_assignment: warn
 compute.use_bottleneck: True
 compute.use_numexpr: True
